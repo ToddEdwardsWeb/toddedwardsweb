@@ -105,8 +105,8 @@ footer {
         box-shadow: solid 0px 3px 5px 0px rgba(82,82,82,0.5);
         transition: 0.5s;
     }
-    .card:hover {transform: scale(1.05);}
-    ul li {font-size: 1.0rem}
+    .card:hover {transform: scale(1.01);}
+    ul li, a {font-size: 1.25rem}
 }
 
 #coded-bg {
