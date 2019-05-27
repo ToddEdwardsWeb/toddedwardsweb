@@ -12,7 +12,7 @@ module.exports = function(grunt) {
         sass: {
             dist: {
                 files: {
-                    'site_root/css/bootstrap_te.css' : 'site_root/scss/bootstrap/bootstrap_te.scss',
+                    //'site_root/css/bootstrap_te.css' : 'site_root/scss/bootstrap/bootstrap_te.scss',
                     'site_root/css/theme-te45.css' : 'site_root/scss/theme-te45.scss'
                 }
             }
